@@ -19,7 +19,7 @@ We believe strong ideas don’t need big companies — just **curious minds and 
 
 ## 🧩 Products
 
-### 🅿️ **Yemmy ParkHub**
+### 🅿️ **Yemmy~ParkHub**
 **Smart parking & space management platform**
 
 - Helps manage parking availability efficiently  
@@ -30,7 +30,7 @@ We believe strong ideas don’t need big companies — just **curious minds and 
 
 ---
 
-### 🎓 **Yemmy CollegeCrate**
+### 🎓 **Yemmy~CollegeCrate**
 **Student collaboration & campus productivity tools**
 
 - Tools for student coordination and collaboration  
